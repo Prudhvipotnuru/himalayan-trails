@@ -1,5 +1,5 @@
 export default function PackageCard({ name, desc, image, price, duration }) {
-    const phoneNumber = "916281606422";
+    const phoneNumber = "917989737195";
 
     const message = `Hello Himalayan Trails! I'm interested in the ${name} package (${duration}). Please share more details.`;
 
